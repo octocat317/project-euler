@@ -1,0 +1,6 @@
+enter number of rows and columns in the grid
+rows: 20
+columns: 20
+
+there are 137846528820 routes to reach the bottom-right corner 
+from the top-left corner in a 20 X 20 grid
