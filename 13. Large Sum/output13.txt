@@ -1,0 +1,1 @@
+the first ten digits of the sum of the given one-hundred 50-digit numbers is 5537376230
