@@ -1,0 +1,4 @@
+the next triangular number that is also pentagonal and hexagonal is 1533776805
+
+T_{55385} = P_{31977} = H_{27693} = 1533776805
+
