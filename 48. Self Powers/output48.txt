@@ -1,0 +1,2 @@
+the last ten digits of the self-power series up to 1000 is 9110846700
+
