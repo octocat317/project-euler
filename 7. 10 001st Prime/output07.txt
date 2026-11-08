@@ -1,0 +1,4 @@
+want to find kth prime number?
+enter k: 10001
+
+the 10001st prime number is 104743
