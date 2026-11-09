@@ -1,0 +1,1 @@
+the sum of digits in the number 2^{1000} is 1366
