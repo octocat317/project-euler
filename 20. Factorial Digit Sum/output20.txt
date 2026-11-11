@@ -1,0 +1,1 @@
+the sum of digits in the number factorial(100) is 648
