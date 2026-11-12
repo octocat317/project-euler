@@ -1,0 +1,3 @@
+enter the number of digits: 1000
+
+the index of the first term in fibonacci sequence to contain 1000 digits is 4782
