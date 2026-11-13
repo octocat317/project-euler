@@ -1,0 +1,4 @@
+the greatest product is 23514624000
+
+and the thirteen adjacent digits are 
+5 5 7 6 6 8 9 6 6 4 8 9 5 
