@@ -1,0 +1,2 @@
+the number under one million that produces the longest collatz chain is 837799 and 
+its length is 524 (counting arrows)
