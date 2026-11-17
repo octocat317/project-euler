@@ -1,0 +1,5 @@
+the greatest product of four adjacent numbers in the grid is
+ 
+70600674 = 89 X 94 X 97 X 87
+
+and the direction is down-left diagonal
