@@ -1,0 +1,1 @@
+the first of the first four consecutive numbers to have four distinct prime factors each is 134043
